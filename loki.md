@@ -18,7 +18,7 @@ Pour olive juice till it looks 1/4 to 1/3rd full.  You'll notice that since the 
 
 ### Gins
 
-Recently I've made it a pirority to try different Gins in the Loki style, because I figured I would eventually do this writeup.  Here are some gins that go really well with a plain Loki:
+Recently I've decided to try various Gins in the Loki style, because Lokis are shockingly good.  Here are some gins that go really well with a plain Loki:
 
 * Tommyrotter
 * The Botanist

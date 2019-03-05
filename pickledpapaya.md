@@ -16,3 +16,7 @@ Pour pickled papaya juice till it looks 1/4 to 1/3rd full. You'll notice that si
 ## Gins
 
 * New Amsterdam
+
+## Photo
+
+![Pickled Papaya Loki](pickledpapaya.jpg)

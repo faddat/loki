@@ -24,3 +24,7 @@ Recently I've decided to try various Gins in the Loki style, because Lokis are s
 * The Botanist
 * Southern Tier
 * Empress 1908
+
+### Photo
+
+![Loki](loki.jpg)

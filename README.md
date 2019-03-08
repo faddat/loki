@@ -3,9 +3,9 @@
 ## Variants:
 
 * [Loki](loki.md)
-* Pickled Papaya
-* Pickle
-* Mushroom
+* [Pickled Papaya](pickledpapaya.md)
+* [Pickle](pickle.md)
+* [Mushroom](mushroom.md)
 
 
 ![Loki](loki.jpg)

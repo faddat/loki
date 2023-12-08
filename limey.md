@@ -17,6 +17,7 @@ After a great deal of experimentation toiling in the Loki laboratory, I have lea
   * Monkey 47
   * Tanqueray original
   * The Botanist
+  * Song Cai
 * serve the Loki with three olives and a pickle
 
 ### custom

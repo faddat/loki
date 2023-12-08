@@ -12,11 +12,11 @@ After a great deal of experimentation toiling in the Loki laboratory, I have lea
 ### the base drink
 * 10 oz or larger glass
 * Fill the glass entirely with ice
-* Add the Juice of one half lime, and a small amount of olive brine
-* Gin (any of these)
+* Add the Juice of one half lime, and a salty brine (could be olive juice but, use your imagination! every loki is as uniqe as the person making it)
+* Gin (any of these) shoild be added until the glass is full
   * Monkey 47
   * Tanqueray original
-  * The Botanist should be added until the glass is full
+  * The Botanist
 * serve the Loki with three olives and a pickle
 
 ### custom
